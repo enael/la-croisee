@@ -1,0 +1,3 @@
+Sitemap: https://la-croisee-chambres-dhotes.fr/sitemap-pages.xml
+User-agent: *
+Allow: /
